@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "richard-dodge-forthrast",
+    "name": "Richard 'Dodge' Forthrast",
+    "epithet": "Ex-smuggler turned billionaire founder of the game company b",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Richard 'Dodge' Forthrast:RMD:de6e13⟧"
+  },
+  {
+    "slug": "zula-forthrast",
+    "name": "Zula Forthrast",
+    "epithet": "His Eritrean-born adopted niece; geologist-programmer and th",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Zula Forthrast:RMD:c78e45⟧"
+  },
+  {
+    "slug": "abdallah-jones",
+    "name": "Abdallah Jones",
+    "epithet": "Welsh-born jihadist terrorist — the principal antagonist.",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Abdallah Jones:RMD:bc3ad7⟧"
+  },
+  {
+    "slug": "sokolov",
+    "name": "Sokolov",
+    "epithet": "Former Russian Spetsnaz security operative who allies with Z",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Sokolov:RMD:b073d6⟧"
+  },
+  {
+    "slug": "csongor-takacs",
+    "name": "Csongor Takács",
+    "epithet": "Hungarian hacker and sysadmin swept into the chase.",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Csongor Takács:RMD:a421db⟧"
+  },
+  {
+    "slug": "marlon",
+    "name": "Marlon",
+    "epithet": "The young Chinese hacker who wrote the Reamde virus.",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Marlon:RMD:f843fe⟧"
+  },
+  {
+    "slug": "t-rain",
+    "name": "T'Rain",
+    "epithet": "The geologically-realistic MMORPG engineered to double as a ",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦T'Rain:RMD:68299a⟧"
+  },
+  {
+    "slug": "the-reamde-ransomware",
+    "name": "The Reamde Ransomware",
+    "epithet": "The in-game virus that encrypts victims' files for gold-paid",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Reamde Ransomware:RMD:99deb2⟧"
+  },
+  {
+    "slug": "the-torgai-goldfields",
+    "name": "The Torgai Goldfields",
+    "epithet": "The virtual region where ransoms drop — gold-farming made in",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Torgai Goldfields:RMD:f3d365⟧"
+  }
+]
